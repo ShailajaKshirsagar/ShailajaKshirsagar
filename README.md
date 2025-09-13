@@ -4,13 +4,13 @@
 
 ---
 
-### 🛠 Tech Stack  
+### 🛠 Tech Stack
 
 **Backend**: Java, Spring Boot, Hibernate, REST APIs  
 **Frontend**: JavaScript, HTML, CSS, BootStrap  
-**Database**: MySQL, PostgreSQL
-**API and Testing Tools** : Swagger , Postman
-**Others**: Git, GitHub, Maven  
+**Database**: MySQL, PostgreSQL  
+**API and Testing Tools**: Swagger, Postman  
+**Others**: Git, GitHub, Maven    
    
 ---
 
