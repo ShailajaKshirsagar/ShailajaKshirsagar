@@ -50,7 +50,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy-yourusername.vercel.app/?username=ShailajaKshirsagar&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=ShailajaKshirsagar&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6)
 
 [![Shailaja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShailajaKshirsagar&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
