@@ -62,6 +62,6 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=600&lines=Java+%7C+Spring+Boot+%7C+React;Full+Stack+Development+%7C+SQL;Open+to+collaboration+and+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=600&lines=Java+%7C+Spring+Boot+%7C;Full+Stack+Development+%7C+SQL;Open+to+collaboration+and+projects" alt="Typing SVG" />
   </a>
 </p>
