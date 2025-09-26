@@ -11,10 +11,11 @@
 **Database**: MySQL, PostgreSQL  
 **API and Testing Tools**: Swagger, Postman  
 **Others**: Git, GitHub, Maven    
-   
+
 ---
 
 ### 💻 Skills and Technologies
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -28,14 +29,28 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShailajaKshirsagar&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShailajaKshirsagar&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShailajaKshirsagar&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShailajaKshirsagar&theme=tokyonight&count_private=true" height="180px" />
 </p>
 
 ---
 
+### 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ShailajaKshirsagar&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6)
+
+---
+
+### 📈 Contribution Graph
+
+[![Shailaja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShailajaKshirsagar&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### 🌟 Profiles
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShailajaKshirsagar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailaja-kshirsagar/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ShailajaK)
@@ -43,22 +58,18 @@
 ---
 
 ### 🌱 About Me
+
 - 🌱 Learning Java and building projects with Spring Boot  
 - 🤝 Open to collaborate on Java & Full Stack projects  
 - 💡 Always curious to explore new technologies  
 
 ---
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ShailajaKshirsagar&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6)
-
-[![Shailaja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShailajaKshirsagar&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 <!--START_SECTION:waka-->
 <!-- If you use WakaTime, connect it to auto-fill your coding time here -->
 <!--END_SECTION:waka-->
+
+---
 
 <p align="center">
   <a href="https://git.io/typing-svg">
