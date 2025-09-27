@@ -39,9 +39,7 @@
 
 ### 🏆 GitHub Trophies
 
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ShailajaKshirsagar&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6&title=committer,stars,repository,contributor,followers,pull_request)
+![trophy](https://github-profile-trophy.vercel.app/?username=ShailajaKshirsagar&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6)
 
 ---
 
