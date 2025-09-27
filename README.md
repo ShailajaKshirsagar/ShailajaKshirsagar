@@ -39,7 +39,9 @@
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ShailajaKshirsagar&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6)
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ShailajaKshirsagar&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6&title=committer,stars,repository,contributor,followers,pull_request)
 
 ---
 
@@ -68,8 +70,6 @@
 <!--START_SECTION:waka-->
 <!-- If you use WakaTime, connect it to auto-fill your coding time here -->
 <!--END_SECTION:waka-->
-
----
 
 <p align="center">
   <a href="https://git.io/typing-svg">
