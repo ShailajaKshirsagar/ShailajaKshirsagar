@@ -31,7 +31,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShailajaKshirsagar&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShailajaKshirsagar&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1%22%20height=%22180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShailajaKshirsagar&theme=tokyonight&count_private=true" height="180px" />
 </p>
 
@@ -45,7 +45,7 @@
 
 ### 📈 Contribution Graph
 
-[![Shailaja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShailajaKshirsagar&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shailaja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShailajaKshirsagar&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ShailajaKshirsagar/github-readme-activity-graph)
 
 ---
 
