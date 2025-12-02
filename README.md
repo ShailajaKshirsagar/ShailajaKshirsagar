@@ -7,9 +7,9 @@
 ### 🛠 Tech Stack
 
 **Backend**: Java, Spring Boot, Hibernate, REST APIs  
-**Frontend**: JavaScript, HTML, CSS, BootStrap  
+**Frontend**: JavaScript, HTML, CSS, Bootstrap  
 **Database**: MySQL, PostgreSQL  
-**API and Testing Tools**: Swagger, Postman  
+**API & Testing Tools**: Swagger, Postman  
 **Others**: Git, GitHub, Maven    
 
 ---
@@ -32,14 +32,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShailajaKshirsagar&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShailajaKshirsagar&theme=tokyonight&count_private=true" height="180px" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ShailajaKshirsagar&theme=tokyonight&count_private=true" height="180px"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ShailajaKshirsagar&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShailajaKshirsagar&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&column=4"/>
+</p>
 
 ---
 
@@ -65,12 +67,8 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!-- If you use WakaTime, connect it to auto-fill your coding time here -->
-<!--END_SECTION:waka-->
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Full+Stack+Development+%7C+SQL&lines=Open+to+collaboration+and+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Full+Stack+Development+%7C+SQL&lines=Open+to+collaboration+and+projects" alt="Typing SVG" />
   </a>
 </p>
