@@ -16,15 +16,15 @@
 
 ### 💻 Skills and Technologies
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-007ACC?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-007ACC?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-007ACC?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-007ACC?style=for-the-badge&logo=swagger&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-007ACC?style=for-the-badge&logo=github-actions&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-007ACC?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -54,8 +54,8 @@
 ### 🌟 Profiles
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShailajaKshirsagar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailaja-kshirsagar/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ShailajaK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailaja-kshirsagar/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-007ACC?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ShailajaK)
 
 ---
 
@@ -69,6 +69,6 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Full+Stack+Development+%7C+SQL&lines=Open+to+collaboration+and+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Full+Stack+Development+%7C+SQL&lines=Open+to+collaboration+and+projects" alt="Typing SVG" />
   </a>
 </p>
