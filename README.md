@@ -6,10 +6,10 @@
 
 ## ✨ About Me
 
-💻 Passionate about building **backend & full-stack applications**
-🚀 Building applications with **Java, Spring Boot & REST APIs**
-🧩 Solving problems with **Data Structures & Algorithms**
-☁️ Exploring **Docker, Azure, Kubernetes & CI/CD**
+💻 Passionate about building **backend & full-stack applications**<br>
+🚀 Building applications with **Java, Spring Boot & REST APIs**<br>
+🧩 Solving problems with **Data Structures & Algorithms**<br>
+☁️ Exploring **Docker, Azure, Kubernetes & CI/CD**<br>
 🌱 Currently strengthening my **Full Stack Development** skills
 
 ## 💻 Tech Stack
