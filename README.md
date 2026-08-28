@@ -79,17 +79,13 @@
 
 ## 🧠 Problem Solving
 
-<p align="center">
-
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Shailaja_Kshirsagar/">
 <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/ShailajaK">
 <img src="https://img.shields.io/badge/HackerRank-Gold%20Badge-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
-</p>
 
 ---
 
@@ -106,17 +102,7 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShailajaKshirsagar&theme=tokyo-night&hide_border=true&area=true&custom_title=Shailaja's%20Contribution%20Graph" width="95%"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
-
-<p align="center">
 
 <a href="https://www.linkedin.com/in/shailaja-kshirsagar/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -129,8 +115,6 @@
 <a href="https://www.hackerrank.com/profile/ShailajaK">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
-</p>
 
 ---
 
