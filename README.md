@@ -46,7 +46,7 @@
 ## 🧠 Problem Solving
 
 <a href="https://leetcode.com/u/Shailaja_Kshirsagar/">
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 <a href="https://www.hackerrank.com/profile/ShailajaK">
 <img src="https://img.shields.io/badge/HackerRank-Gold%20Badge-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
