@@ -14,15 +14,7 @@
 ☁️ Exploring **Docker, Azure, Kubernetes & CI/CD**
 🌱 Currently strengthening my **Full Stack Development** skills
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 ResolveIQ — AI Grievance Portal
-### 💰 SmartSpend — Expense Tracker
-### 📚 Codexia — Notes Selling Platform
----
-
+--- 
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
