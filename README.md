@@ -100,9 +100,3 @@
 <a href="https://www.hackerrank.com/profile/ShailajaK">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
----
-
-<p align="center">
-  💻 <b>Build. Solve. Learn. Repeat. 🚀</b>
-</p>
