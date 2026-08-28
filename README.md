@@ -1,27 +1,24 @@
-<h1 align="center">Hi 👋, I'm Shailaja Kshirsagar</h1>
-<h3 align="center">Java Developer | Spring Boot | Building Scalable Backend Systems & APIs</h3>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"> 
 
-<p align="center">
-  <i>Write the code... Test the endpoint... Ship it... Repeat 🔁</i>
-</p>
+# 💫 Hii, I'm Shailaja <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shailaja-kshirsagar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/ShailajaK"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-</p>
+Sit back... Relax... Code... Repeat 🔁
 
 ---
 
-### 🚀 About Me
+## ✨ About Me:
 
-- 💻 Java Developer building backend applications & REST APIs with **Spring Boot**
-- 🧩 Sharpening problem-solving through **Data Structures & Algorithms**
-- 🌱 Currently deepening my skills in **Full Stack Development** (Spring Boot + React)
-- 🤝 Open to collaborating on Java & Full Stack projects
-- 💡 Always curious to explore new technologies
+💻 I'm a Java Developer  
+🚀 I build backend applications & REST APIs with Spring Boot  
+🧩 I enjoy solving problems with Data Structures & Algorithms  
+☁️ I containerize with Docker and ship through CI/CD to Azure  
+📋 I work in Jira-driven agile teams  
+🌱 I'm currently leveling up in Full Stack Development (Spring Boot + React)  
+🤝 Open to collaborating on Java & Full Stack projects  
+
 ---
 
-### 💻 Skills & Technologies
+## 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -40,19 +37,8 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
----
-
-### 🛠 Featured Projects
-
-| Project | What it does |
-|---|---|
-| 🚗 **[RideMatrix](https://github.com/ShailajaKshirsagar/RideMatrix)** | Vehicle & visitor management system for residential societies — tracks residents, vehicles, and visitors securely |
-| 🎓 **[EduConnect_Portal](https://github.com/ShailajaKshirsagar/EduConnect_Portal)** | Spring Boot + MySQL portal for educational institutions to manage students, users, and departments |
-| 🍳 **[React_Recipe_App](https://github.com/ShailajaKshirsagar/React_Recipe_App)** | React app powered by TheMealDB API, with category filtering and responsive layouts |
-| ❓ **[Quiz_Application](https://github.com/ShailajaKshirsagar/Quiz_Application)** | Java-based quiz application |
-| 🧮 **[Calculator](https://github.com/ShailajaKshirsagar/Calculator)** | A Java calculator app |
 
 ---
 
@@ -75,13 +61,7 @@
 
 ---
 
-### 📫 Let's Connect
+### 🌟 Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailaja-kshirsagar/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ShailajaK)
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Hibernate;Docker+%7C+CI%2FCD+%7C+Azure;Open+to+collaboration+and+opportunities" alt="Typing SVG" />
-  </a>
-</p>
